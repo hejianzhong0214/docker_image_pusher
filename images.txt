@@ -7,3 +7,4 @@ xhofe/alist:latest
 nginx:latest
 python:3.9-slim
 mysql:8.0-debian
+docker:latest
